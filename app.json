@@ -1,0 +1,12 @@
+{
+  "name": "Photogallery",
+  "displayName": "Photogallery",
+  "expo": {
+    "name": "Photogallery",
+    "slug": "Photgallery",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
